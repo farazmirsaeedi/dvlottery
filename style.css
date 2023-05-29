@@ -32,3 +32,24 @@ padding: 0 20px;
     margin: 3rem 0 2rem 0;
 
 }
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hr{
+    width: 90%;
+    margin: auto;
+    opacity: .5;
+}
+.thank-you{
+    background-image:linear-gradient(to bottom, #D7ECF7,#BADFF1) ;
+    width: 90%;
+    height: 62px;
+    
+}
+.thank{
+    width: 100%;
+    height: auto;
+    color: #0C5460;
+}
